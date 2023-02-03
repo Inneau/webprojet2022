@@ -1,0 +1,38 @@
+
+
+#store
+{
+    background-color: #fff;
+    text-align: center;
+}
+
+.storeHouse
+{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 3%;
+}
+
+.box_info
+{
+    width: 20%;
+    text-align: center;
+    margin: 2% 2% auto;
+    border: 1px orangered  solid;
+    border-radius: 10px;
+}
+
+.box_info img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.box_info h2
+{
+    color: orangered;
+    font-weight: bold;
+    font-size: 20px;
+} 

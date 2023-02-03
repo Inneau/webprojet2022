@@ -1,0 +1,94 @@
+body
+{
+    background-color: #fff;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: #cb660a;
+}
+
+#Milieu
+{
+    text-align: center;
+    margin: 50px,20px,20px,20px;
+    margin-top: 10%;
+    background-color: #fff;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 40%;
+    border-radius: 20px;
+    margin-left: 30%;
+}
+
+
+#Milieu form
+{
+    padding: 20px,20px,20px,20px;
+    margin-top: 5%;
+}
+
+
+#Milieu form .input1
+{
+    width: 50%;
+    padding: 2px 2px 2px 2px;
+    border-radius: 5px;
+}
+
+#Milieu form label
+{
+/*    padding-right: 5%;*/
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#Milieu form a
+{
+    background-color: #cb660a;
+    padding: 5px 10px 5px 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.textArea
+{
+    margin-top: 4%;
+    width: 50%;
+}
+
+
+footer #footer2
+{
+    background-color: #cb660a;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.footerDivider
+{
+    width: 70%;
+    height: 2px;
+    background-color: #dadada;
+    margin-left: 15%;
+}
+
+footer #footer2 li 
+{
+    list-style: none;
+    display: inline-block;
+}
+
+
+footer #footer2 li a
+{
+    text-decoration: none;
+    color: #898988;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 10px 20px 10px 20px;
+}
+
+
+
